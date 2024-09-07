@@ -1,0 +1,33 @@
+.navbar-menu.is-active, .navbar-item {
+    color: #65edd8;
+    text-align: center;
+    font-size: 1.1rem;
+}
+
+.navbar-menu.is-active {
+    background-color: #00d1b2;
+}
+
+
+.navbar-item:hover {
+    background-color: #ffdd57;
+}
+
+.navbar-item:active, .navbar-item:focus, .navbar-item:focus-within {
+    background-color: transparent !important;
+    --bulma-navbar-item-background-a: 0;
+}
+
+#navbar-main {
+    color: black; /* Default text color */
+    text-shadow: none; /* No text shadow by default */
+}
+
+#navbar-main:hover {
+    color: #ffdd57; /* Change text color when hovered */
+    text-shadow: 
+        -1px -1px 0 #000000, /* Top-left shadow */
+        1px -1px 0 #000,  /* Top-right shadow */
+        -1px 1px 0 #000,  /* Bottom-left shadow */
+        1px 1px 0 #000;   /* Bottom-right shadow */
+}

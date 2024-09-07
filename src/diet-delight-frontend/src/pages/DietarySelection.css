@@ -1,0 +1,13 @@
+/* #btn-search:hover {
+    background-color: #00d1b2;
+} */
+
+.title.is-3 {
+    color: #00d1b2;
+}
+
+.section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
