@@ -1,17 +1,29 @@
 # Diet Delight
 
-A full stack web application by John Fuentes, Hy Nguyen and Branden Chiem.
+## Description
 
-A capstone project for the Diploma of IT at Coder Academy.
+Diet Delight is a modern web application designed to enhance the experience at Fit Life Gym by providing personalized meal plans and nutritional guidance to gym members. 
 
-## R10: Deployed App
+Diet Delight's primary contributors are John Fuentes, Hy Nguyen and Branden Chiem.
 
-You can access the deployed App at https://diet-delight.netlify.app/
+You can access the deployed App at https://diet-delight.netlfy.app/ 
 
-## R11: Github Repository
+## Github Repository
 
 Frontend: https://github.com/jmcaluyafuentes/diet-delight-frontend  
 Backend: https://github.com/jmcaluyafuentes/diet-delight-backend
+
+## Functionality and Features
+
+1. Search Recipes (MVP 1) - The app allows users to search for recipes by selecting dietary categories aligned with their fitness goals (e.g., high-protein for muscle gain, low-carb for weight loss).
+
+2. Print Recipes (MVP 2) - Users can select and print recipes in PDF format, which provides a handy grocery list, or save the file for easy access.
+
+3. Featured Recipes (MVP 3) - The app provides access to a curated list of recommended recipes that allows users to explore and choose appealing options.
+
+4. User Management (Stretch 1) - Users can create their accounts. Registered users can log in, update their profiles and delete their accounts if needed.
+
+5. Save Recipes (Stretch 2) - Registered users can save their favorite recipes for easy retrieval. They can also add or remove recipes from their saved list.
 
 ## Installation and Set Up Instructions
 
@@ -59,32 +71,6 @@ This will start the application on http://localhost:5173/ by default.
 ```
 npm test
 ```
-
-## R1: Website Desciption
-
-## Description
-
-Diet Delight is a modern web application designed to enhance the services of Fit Life Gym by offering additional value to its members by providing personalized meal planning and healthy eating guidance. Gym instructors need a tool to help gym members select meals that complement their fitness goals, such as muscle gain, weight loss, or improved endurance.
-
-## Functionality and Features
-
-1. Search Recipes (MVP 1) - The app allows users to search for recipes by selecting dietary categories aligned with their fitness goals (e.g., high-protein for muscle gain, low-carb for weight loss).
-
-2. Print Recipes (MVP 2) - Users can select and print recipes in PDF format, which provides a handy grocery list, or save the file for easy access.
-
-3. Featured Recipes (MVP 3) - The app provides access to a curated list of recommended recipes that allows users to explore and choose appealing options.
-
-4. User Management (Stretch 1) - Users can create their accounts. Registered users can log in, update their profiles and delete their accounts if needed.
-
-5. Save Recipes (Stretch 2) - Registered users can save their favorite recipes for easy retrieval. They can also add or remove recipes from their saved list.
-
-### Reason why Stretch 1 and 2 are not yet implemented
-
-Our current focus is on developing a robust Minimum Viable Product (MVP) that delivers the core functionalities of Diet Delight. This includes ensuring that key features, such as dietary category search and recipe printing, are working seamlessly and providing value to our users.
-
-As part of this focus, we are prioritizing the identification and resolution of any bugs and refactoring components to make the app more reusable and easier to maintain. This foundational work is essential to ensure a smooth and reliable user experience.
-
-While Stretch 1 (User Management) and Stretch 2 (Save Recipes) have not yet been implemented, these features remain a priority for our team. We are committed to continue the development even after the course concludes, as we believe this app can be a valuable tool in our own healthy lifestyle journeys, as well as those of our family and friends. As the app evolves, we will enhance its capabilities, making it an even more powerful resource for meal planning and healthy eating.
 
 ## Target Audience
 
@@ -164,7 +150,7 @@ While Stretch 1 (User Management) and Stretch 2 (Save Recipes) have not yet been
 
 - Trello - A project management tool used to organize tasks, tracks progress, and collaborates with team members.
 
-## R2: Dataflow Diagram
+## Dataflow Diagram
 
 ### Search and Print Recipes (MVP 1 and 2)
 
@@ -186,7 +172,7 @@ The backend temporarily saves recipe data retrieved from the third-party Edamam 
 
 ![Database TTL](docs/Database-TTL-min.png)
 
-## R4: User Stories
+## User Stories
 
 ### Dietary Category Search
 
@@ -214,7 +200,7 @@ The backend temporarily saves recipe data retrieved from the third-party Edamam 
 
 * As a user, I want the experience for mobile devices to be intuitive, so that I can easily navigate the application and find the information I need quickly.
 
-## R5: Wireframes
+## Wireframes
 
 ### Homepage
 
