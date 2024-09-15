@@ -154,7 +154,7 @@ The backend temporarily saves recipe data retrieved from the third-party Edamam 
 * As a user, I want the experience for mobile devices to be intuitive, so that I can easily navigate the application and find the information I need quickly.
 
 ## Wireframes
-<(details>
+<details>
 ### Homepage
 
 ![Home Page](docs/1_Home_Page.png)
@@ -239,7 +239,7 @@ During the implementation stage, our team focused on turning the initial plans i
 ![Trello board ](./docs/trello-1-9-24-min.png)
 </details>
 
-## Testing
+## Software Testing
 
 ### Introduction
 
