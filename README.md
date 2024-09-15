@@ -25,53 +25,6 @@ Backend: https://github.com/jmcaluyafuentes/diet-delight-backend
 
 5. Save Recipes (Stretch 2) - Registered users can save their favorite recipes for easy retrieval. They can also add or remove recipes from their saved list.
 
-## Installation and Set Up Instructions
-
-Follow these steps to get the project up and running on your local machine.
-
-### 1. Prerequisites
-
-Make sure you have the following installed:
-
-- Node.js  
-- npm (Node Package Manager)
-
-### 2. Clone the Repository
-
-First, clone the repository to your local machine:
-
-```
-git clone https://github.com/jmcaluyafuentes/diet-delight-frontend.git
-```
-
-Navigate to the project directory:
-
-```
-cd diet-delight-frontend
-```
-
-### 3. Install Dependencies
-
-```
-npm install
-```
-
-### 4. Running the Application
-
-To start the development server, run:
-
-```
-npm run dev
-```
-
-This will start the application on http://localhost:5173/ by default.
-
-### 5. Running Tests
-
-```
-npm test
-```
-
 ## Target Audience
 
 - Fitness Enthusiasts - Individuals that seek diet plans that complement their workout routines.
@@ -222,7 +175,8 @@ The backend temporarily saves recipe data retrieved from the third-party Edamam 
 
 ![Recipes PDF](docs/5._Print_Recipes.png)
 
-## R6: Screenshots of Trello board
+## R6: Screenshots of Trello Board
+<details>
 
 Our team used Trello to manage our tasks due to its good visual, straightforward and user-friendly components.
 
@@ -282,6 +236,7 @@ During the implementation stage, our team focused on turning the initial plans i
 
 ### 1/9/24
 ![Trello board ](./docs/trello-1-9-24-min.png)
+</details>
 
 ## Production Test
 
@@ -395,3 +350,50 @@ Displayed when the user clicks the search button without selecting any dietary c
 ![App](./docs/app-8-error-no-recipes-found-min.png)
 
 Displayed when the app cannot find any recipes matching the selected criteria. This error encourages the user to modify their search criteria for better results.
+
+## Installation and Set Up Instructions
+
+Follow these steps to get the project up and running on your local machine.
+
+### 1. Prerequisites
+
+Make sure you have the following installed:
+
+- Node.js  
+- npm (Node Package Manager)
+
+### 2. Clone the Repository
+
+First, clone the repository to your local machine:
+
+```
+git clone https://github.com/jmcaluyafuentes/diet-delight-frontend.git
+```
+
+Navigate to the project directory:
+
+```
+cd diet-delight-frontend
+```
+
+### 3. Install Dependencies
+
+```
+npm install
+```
+
+### 4. Running the Application
+
+To start the development server, run:
+
+```
+npm run dev
+```
+
+This will start the application on http://localhost:5173/ by default.
+
+### 5. Running Tests
+
+```
+npm test
+```
