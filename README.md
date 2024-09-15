@@ -154,7 +154,7 @@ The backend temporarily saves recipe data retrieved from the third-party Edamam 
 * As a user, I want the experience for mobile devices to be intuitive, so that I can easily navigate the application and find the information I need quickly.
 
 ## Wireframes
-
+<(details>
 ### Homepage
 
 ![Home Page](docs/1_Home_Page.png)
@@ -174,6 +174,7 @@ The backend temporarily saves recipe data retrieved from the third-party Edamam 
 ### Recipes PDF Preview (Print Page)
 
 ![Recipes PDF](docs/5._Print_Recipes.png)
+</details>
 
 ## R6: Screenshots of Trello Board
 <details>
@@ -238,12 +239,13 @@ During the implementation stage, our team focused on turning the initial plans i
 ![Trello board ](./docs/trello-1-9-24-min.png)
 </details>
 
-## Production Test
+## Testing
 
 ### Introduction
 
 This provides a summary of the production testing conducted for the Diet Delight App, aimed to evaluate usability, functionality, and performance to ensure the app meets user needs and Fit Life Gym's requirements.
 
+<details>
 ### Testing Results
 
 ### 1. Dietary Category Search
@@ -298,6 +300,7 @@ This provides a summary of the production testing conducted for the Diet Delight
 ## Conclusion
 
 The Diet Delight App meets core objectives but requires optimization for enhanced user experience, especially on mobile devices. The development team will focus on performance improvements and expanding the app’s features in future updates.
+</details>
 
 ## Screenshots from Production Testing
 
@@ -349,7 +352,8 @@ Displayed when the user clicks the search button without selecting any dietary c
 
 ![App](./docs/app-8-error-no-recipes-found-min.png)
 
-Displayed when the app cannot find any recipes matching the selected criteria. This error encourages the user to modify their search criteria for better results.
+Displayed when the app cannot find any recipes matching the selected criteria. This error encourages the user to modify their search criteria for better results. 
+
 
 ## Installation and Set Up Instructions
 
