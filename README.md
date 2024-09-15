@@ -32,9 +32,9 @@ Backend: https://github.com/jmcaluyafuentes/diet-delight-backend
 - Gym Instructors - Professionals who need a tool to recommend suitable recipes to clients.
 
 ## Tech Stack
-
+<details>
 ### Frontend:
-
+<details>
 - HTML - The foundational markup language used to structure content on the web. HTML (HyperText Markup Language) defines elements such as headings, paragraphs, links, and other components that form the content of web pages.
 
 - Vite - A modern build tool that offers a fast development server and optimized builds for production. Vite is designed to work seamlessly with JavaScript frameworks and libraries, such as React. It provides features like hot module replacement (HMR) and efficient bundling.
@@ -50,9 +50,9 @@ Backend: https://github.com/jmcaluyafuentes/diet-delight-backend
 - Bulma - A CSS framework based on Flexbox that helps in designing responsive and modern user interfaces. Bulma provides a set of ready-to-use CSS classes for layout, forms, buttons, and other UI components, making it easier to create aesthetically pleasing designs without writing extensive custom CSS.
 
 - Netlify - A platform for deploying and hosting static sites and serverless functions. Netlify integrates with Git repositories to provide continuous deployment, automated builds, and easy management of frontend assets. It also offers features like form handling and serverless functions.
-
+</details>
 ### Backend:
-
+<details>
 - Node.js - A JavaScript runtime for server-side development that enables the use of JavaScript for backend applications with a non-blocking, event-driven architecture.
 
 - Express.js - A lightweight web framework for Node.js that simplifies API and web application development with features like routing and middleware support.
@@ -68,11 +68,11 @@ Backend: https://github.com/jmcaluyafuentes/diet-delight-backend
 ### API Integration:
 
 - Edamam API - An API service provider that offers extensive recipe and nutritional data, which enables integration of diverse recipe information into the application.
-
+</details>
 ### Testing:
-
+<details>
 ### Frontend test libraries
-
+ 
 - Vitest - A fast unit test framework designed to work with Vite. It provides a testing environment similar to Jest but optimized for Vite’s ecosystem.
 
 - @testing-library/react - A testing library for React that encourages testing components in a way that simulates user interactions. It helps ensure that components work as expected from a user’s perspective.
@@ -102,9 +102,11 @@ Backend: https://github.com/jmcaluyafuentes/diet-delight-backend
 - Figma - A tool used to design user interfaces and creates interactive prototypes.
 
 - Trello - A project management tool used to organize tasks, tracks progress, and collaborates with team members.
+</details>
+</details>  
 
 ## Dataflow Diagram
-
+<details>
 ### Search and Print Recipes (MVP 1 and 2)
 
 ![Epic 1 and 2 dataflow](docs/Epic1&2.png)
@@ -124,9 +126,9 @@ The backend communicates with the Edamam API to fetch recipe data when users sea
 The backend temporarily saves recipe data retrieved from the third-party Edamam API in the database. This approach is useful to allow for quick access without repeatedly querying the external API. To comply with Edamam’s policy against permanent storage of recipe data, we use MongoDB’s Time-To-Live (TTL) feature to automatically delete the data after 10 minutes.
 
 ![Database TTL](docs/Database-TTL-min.png)
-
+</details>
 ## User Stories
-
+<details>
 ### Dietary Category Search
 
 * As a user, I want to be able to search for dietary categories (e.g., high-protein, low-carb) based on my fitness goals, so that I can find recipes and meal plans that align with my objectives.
@@ -152,7 +154,7 @@ The backend temporarily saves recipe data retrieved from the third-party Edamam 
 * As a user, I want the application to be optimized for mobile devices, so that I can access the features and content on the go.
 
 * As a user, I want the experience for mobile devices to be intuitive, so that I can easily navigate the application and find the information I need quickly.
-
+</details>
 ## Wireframes
 <details>
 ### Homepage
@@ -303,7 +305,7 @@ The Diet Delight App meets core objectives but requires optimization for enhance
 </details>
 
 ## Screenshots from Production Testing
-
+<details>
 ### Landing page (Home)
 
 ![App](./docs/app-1-landing-page-min.png)
@@ -353,7 +355,7 @@ Displayed when the user clicks the search button without selecting any dietary c
 ![App](./docs/app-8-error-no-recipes-found-min.png)
 
 Displayed when the app cannot find any recipes matching the selected criteria. This error encourages the user to modify their search criteria for better results. 
-
+</details>
 
 ## Installation and Set Up Instructions
 
