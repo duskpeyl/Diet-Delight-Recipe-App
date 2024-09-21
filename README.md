@@ -33,8 +33,8 @@ Backend: https://github.com/jmcaluyafuentes/diet-delight-backend
 
 ## Tech Stack
 <details>
-### Frontend:
 <details>
+### Frontend:
 - HTML - The foundational markup language used to structure content on the web. HTML (HyperText Markup Language) defines elements such as headings, paragraphs, links, and other components that form the content of web pages.
 
 - Vite - A modern build tool that offers a fast development server and optimized builds for production. Vite is designed to work seamlessly with JavaScript frameworks and libraries, such as React. It provides features like hot module replacement (HMR) and efficient bundling.
@@ -51,8 +51,8 @@ Backend: https://github.com/jmcaluyafuentes/diet-delight-backend
 
 - Netlify - A platform for deploying and hosting static sites and serverless functions. Netlify integrates with Git repositories to provide continuous deployment, automated builds, and easy management of frontend assets. It also offers features like form handling and serverless functions.
 </details>
-### Backend:
 <details>
+### Backend:
 - Node.js - A JavaScript runtime for server-side development that enables the use of JavaScript for backend applications with a non-blocking, event-driven architecture.
 
 - Express.js - A lightweight web framework for Node.js that simplifies API and web application development with features like routing and middleware support.
