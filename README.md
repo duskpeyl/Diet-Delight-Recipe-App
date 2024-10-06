@@ -130,8 +130,9 @@ The backend temporarily saves recipe data retrieved from the third-party Edamam 
 
 ![Database TTL](docs/Database-TTL-min.png)
 </details>
-## User Stories
+<summary>User Stories</summary>
 <details>
+
 ### Dietary Category Search
 
 * As a user, I want to be able to search for dietary categories (e.g., high-protein, low-carb) based on my fitness goals, so that I can find recipes and meal plans that align with my objectives.
@@ -158,8 +159,11 @@ The backend temporarily saves recipe data retrieved from the third-party Edamam 
 
 * As a user, I want the experience for mobile devices to be intuitive, so that I can easily navigate the application and find the information I need quickly.
 </details>
+
 ## Wireframes
 <details>
+<summary>Wireframe Designs</summary>
+
 ### Homepage
 
 ![Home Page](docs/1_Home_Page.png)
@@ -252,6 +256,7 @@ This provides a summary of the production testing conducted for the Diet Delight
 
 <details>
  <summary>Testing Results</summary>
+
 ### Testing Results
 
 ### 1. Dietary Category Search
