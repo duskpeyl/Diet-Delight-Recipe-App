@@ -34,6 +34,7 @@ Backend: https://github.com/jmcaluyafuentes/diet-delight-backend
 ## Tech Stack
 <details>
  <summary>Frontend</summary>
+ 
 ### Frontend:
 - HTML - The foundational markup language used to structure content on the web. HTML (HyperText Markup Language) defines elements such as headings, paragraphs, links, and other components that form the content of web pages.
 
@@ -53,6 +54,7 @@ Backend: https://github.com/jmcaluyafuentes/diet-delight-backend
 </details>
 <details>
  <summary>Backend</summary>
+ 
 ### Backend:
 - Node.js - A JavaScript runtime for server-side development that enables the use of JavaScript for backend applications with a non-blocking, event-driven architecture.
 
@@ -72,6 +74,7 @@ Backend: https://github.com/jmcaluyafuentes/diet-delight-backend
 </details>
 <details>
  <summary>Testing</summary>
+ 
 ### Testing:
 ### Frontend test libraries
  
@@ -110,6 +113,7 @@ Backend: https://github.com/jmcaluyafuentes/diet-delight-backend
 ## Dataflow Diagram
 <details>
  <summary>Search and Print Recipes</summary>
+ 
 ### Search and Print Recipes (MVP 1 and 2)
 
 ![Epic 1 and 2 dataflow](docs/Epic1&2.png)
@@ -130,8 +134,8 @@ The backend temporarily saves recipe data retrieved from the third-party Edamam 
 
 ![Database TTL](docs/Database-TTL-min.png)
 </details>
-<summary>User Stories</summary>
 <details>
+<summary>User Stories</summary>
 
 ### Dietary Category Search
 
@@ -187,6 +191,7 @@ The backend temporarily saves recipe data retrieved from the third-party Edamam 
 
 ## R6: Trello Board Screenshots
 <details>
+<summary>Screenshots</summary>
 
 Our team used Trello to manage our tasks due to its good visual, straightforward and user-friendly components.
 
@@ -250,9 +255,13 @@ During the implementation stage, our team focused on turning the initial plans i
 
 ## Software Testing
 
+<details>
+<summary>Introduction</summary>
+ 
 ### Introduction
 
 This provides a summary of the production testing conducted for the Diet Delight App, aimed to evaluate usability, functionality, and performance to ensure the app meets user needs and Fit Life Gym's requirements.
+</details>
 
 <details>
  <summary>Testing Results</summary>
