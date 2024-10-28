@@ -322,7 +322,7 @@ This provides a summary of the production testing conducted for the Diet Delight
 The Diet Delight App meets core objectives but requires optimization for enhanced user experience, especially on mobile devices. The development team will focus on performance improvements and expanding the app’s features in future updates.
 </details>
 <details>
- <summary>Screenshots from Production Testings</summary>
+ <summary>Screenshots from Production Tests</summary>
 ## Screenshots from Production Testing
 ### Landing page (Home)
 
