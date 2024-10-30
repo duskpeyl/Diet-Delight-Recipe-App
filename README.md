@@ -421,3 +421,9 @@ This will start the application on http://localhost:5173/ by default.
 ```
 npm test
 ```
+
+## References
+
+* OpenJS Foundation (2024). Node.js Documentation. [online] Available at: [Link to Node Documentation](https://nodejs.org/docs/latest/api/).
+* Edamam (2024). *Edamam API Documentation, Accessed at [Edamam API Documentation](https://developer.edamam.com/edamam-docs-recipe-api).
+* MongoDB (2024). *MongoDB Atlas Documentation: Cloud Database Services*. Available at [MongoDB Atlas Documentation](https://www.mongodb.com/docs/atlas/).
