@@ -76,6 +76,7 @@ Backend: https://github.com/jmcaluyafuentes/diet-delight-backend
  <summary>Testing</summary>
  
 ### Testing:
+
 ### Frontend test libraries
  
 - Vitest - A fast unit test framework designed to work with Vite. It provides a testing environment similar to Jest but optimized for Vite’s ecosystem.
@@ -122,7 +123,7 @@ Backend: https://github.com/jmcaluyafuentes/diet-delight-backend
 
 ![Epic 3 dataflow](docs/Epic3.png)
 
-## R3: Application Architecture Diagram
+## Application Architecture Diagram
 
 ![Application Architecture Diagram](./docs/architechture.png)
 
