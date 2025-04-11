@@ -6,7 +6,7 @@ Diet Delight is a modern web application designed to enhance the experience at F
 
 Diet Delight's primary contributors are John Fuentes, Hy Nguyen and Branden Chiem.
 
-You can access the deployed App at https://diet-delight.netlfy.app/ 
+You can access the deployed app at https://diet-delight-recipe-app-v8hq.vercel.app/
 
 ## Github Repository
 
