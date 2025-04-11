@@ -190,7 +190,7 @@ The backend temporarily saves recipe data retrieved from the third-party Edamam 
 ![Recipes PDF](docs/5._Print_Recipes.png)
 </details>
 
-## R6: Trello Board Screenshots
+## Trello Board Screenshots
 <details>
 <summary>Screenshots</summary>
 
